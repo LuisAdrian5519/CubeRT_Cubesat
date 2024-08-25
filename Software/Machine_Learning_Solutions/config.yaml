@@ -1,0 +1,8 @@
+path: c:/Users/usuario\Documents/Luis Adrian Cabrera/Proyectos/Fox Robotics/Cubesat/Software
+train: Dataset_Google/Images/train
+val: Dataset_Google//Images/validation
+
+# Classes
+
+names:
+  0: Moon
