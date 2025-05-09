@@ -1,10 +1,10 @@
-# Importar librerías
+# Import libraries
 
 from ultralytics import YOLO
 
-# Build a new model from scratch
+# Select a model
 
-model = YOLO("yolov8n.yaml")
+model = YOLO("yolov11n.yaml")
 
 # train the model
 
