@@ -10,5 +10,5 @@ model = YOLO("yolov11n.yaml")
 
 # model.train(data="config.yaml", epochs=15, batch=16)
 
-# model.train(data="config.yaml", epochs=10, batch=16, device=0, fraction = 0.30)
+# model.train(data="config.yaml", epochs=10, batch=16, device=0, fraction = 0.20)
 
