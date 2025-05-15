@@ -1,6 +1,6 @@
-path: C:/Users/usuario/Documents/Luis Adrian Cabrera/Proyectos/Representative_teams/Fox Robotics/Cubesat/CubeRT_Cubesat/Software/Machine_Learning_Solutions
-train: C:/Users/usuario/Documents/Luis Adrian Cabrera/Proyectos/Representative_teams/Fox Robotics/Cubesat/Moon_Dataset/Corrected_Augmented_Dataset/train/images
-val: C:/Users/usuario/Documents/Luis Adrian Cabrera/Proyectos/Representative_teams/Fox Robotics/Cubesat/Moon_Dataset/Corrected_Augmented_Dataset/valid/images
+path: C:\Users\josea\Documents\Luis Adrian\CubeRT_Cubesat\Software\Machine_Learning_Solutions
+train: C:\Users\josea\Documents\Luis Adrian\Moon_Dataset\Corrected_Augmented_Dataset\train\images
+val: C:\Users\josea\Documents\Luis Adrian\Moon_Dataset\Corrected_Augmented_Dataset\valid\images
 
 # Classes
 
