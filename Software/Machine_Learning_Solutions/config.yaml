@@ -1,6 +1,6 @@
-path: C:\Users\josea\Documents\Luis Adrian\CubeRT_Cubesat\Software\Machine_Learning_Solutions
-train: C:\Users\josea\Documents\Luis Adrian\Moon_Dataset\Corrected_Augmented_Dataset\train\images
-val: C:\Users\josea\Documents\Luis Adrian\Moon_Dataset\Corrected_Augmented_Dataset\valid\images
+path: C:\Users\mrdav\Desktop\Proyecto_final_SI\CubeRT_Cubesat\Software\Machine_Learning_Solutions
+train: C:\Users\mrdav\Desktop\Images\Moon_Dataset\Corrected_Augmented_Dataset\train\images
+val: C:\Users\mrdav\Desktop\Images\Moon_Dataset\Corrected_Augmented_Dataset\valid\images
 
 # Classes
 
