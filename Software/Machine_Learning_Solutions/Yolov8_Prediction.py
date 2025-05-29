@@ -6,7 +6,7 @@ from ultralytics import YOLO
 
 # Cargar el modelo Entrenado
 
-model = YOLO(r"C:/Users/usuario/Documents/Luis Adrian Cabrera/Proyectos/Fox Robotics/Cubesat/Software/runs/detect/train16/weights/last.pt")
+model = YOLO(r"C:/Users/usuario/Documents/Luis Adrian Cabrera/Proyectos/Representative_teams/Fox Robotics/Cubesat/CubeRT_Cubesat/Software/Machine_Learning_Solutions/runs/detect/train16/weights/best.pt")
 
 logging.getLogger("ultralytics").setLevel(logging.CRITICAL)
 
