@@ -1,2 +1,3 @@
-# international-world-innovative-student-exhibition-2024
-Research and development project titled "Machine learning &amp; computer vision models applied to control algorithms for cubesat exploration missions"
+# CubeRT AI Cubesat Project
+
+The CubeRT-02 is a cutting-edge microsatellite prototype designed to transform the way scientists utilize AI in space exploration. Leveraging the power of Cloud Computing and the ModelArts platform, extensive training iterations were conducted to develop a highly refined and precise control system. This system is capable of seamlessly detecting and tracking Earth's natural satellite, ensuring accurate and reliable performance in space missions.
